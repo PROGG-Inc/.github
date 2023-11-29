@@ -9,7 +9,7 @@
 </h6>
 
 <p align="center">
-  Conecte-se com o mundo de uma maneira única 🎮
+  Hub completo para gamers 🎮
 </p>
 
 <hr/>
