@@ -5,19 +5,17 @@
 </h3>
 
 <h6 align="center">
-  <a href="">🏰 Website</a>
-  ·
-  <a href="">📰 Blog - em breve</a>
+  <a href="">💻 Website</a>
 </h6>
 
 <p align="center">
-  Conecte-se com o mundo de uma maneira única 🌍
+  Conecte-se com o mundo de uma maneira única 🎮
 </p>
 
 <hr/>
 
-A **Pro GG** é um organizador de links para gamers, com um marketplace exclusivo. 
-Integração com jogos permite compartilhar conquistas e estatísticas. 
+A **Pro GG** o seu hub completo para gamers, unindo organização, comércio e integração, 
+onde cada clique é uma jogada estratégica no universo digital dos games.
 
 #### Links úteis
 
