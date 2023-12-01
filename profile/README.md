@@ -9,7 +9,7 @@
 </h6>
 
 <p align="center">
-  Hub completo para gamers 🎮
+  Explore, jogue, conecte: Pro.gg, o hub que redefine a jornada gamer. 🎮
 </p>
 
 <hr/>
