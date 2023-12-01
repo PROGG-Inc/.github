@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://imgur.com/sQIEXTd.png" height="200" alt="Logo"/>
+	<img src="https://imgur.com/sQIEXTd.png" height="150" alt="Logo"/>
 </h3>
 
 <p align="center">
@@ -8,8 +8,9 @@
 
 <hr/>
 
-A **Pro GG** o seu hub completo para gamers, unindo organização, comércio e integração, 
-onde cada clique é uma jogada estratégica no universo digital dos games.
+A **Pro.gg** é um organizador de links para gamers, com um marketplace exclusivo.
+Integração com jogos permite compartilhar conquistas e estatísticas.
+Simplificando o acesso e a experiência do usuário na comunidade gamer.
 
 #### Links úteis
 
