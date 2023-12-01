@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://imgur.com/XbocG3a.png" width="100" alt="Logo"/>
+	<img src="https://imgur.com/Oo2ztAJ.png" width="100" alt="Logo"/>
     <br/>
 	Pro GG
 </h3>
