@@ -1,15 +1,9 @@
 <h3 align="center">
-	<img src="https://imgur.com/Oo2ztAJ.png" width="100" alt="Logo"/>
-    <br/>
-	Pro GG
+	<img src="https://imgur.com/Oo2ztAJ.png" height="200" alt="Logo"/>
 </h3>
 
-<h6 align="center">
-  <a href="">💻 Website</a>
-</h6>
-
 <p align="center">
-  Explore, jogue, conecte: Pro.gg, o hub que redefine a jornada gamer. 🎮
+  Explore, jogue, conecte: Pro.gg, o hub que redefine a jornada gamer.
 </p>
 
 <hr/>
