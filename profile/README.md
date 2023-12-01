@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  Explore, jogue, conecte: Pro.gg, o hub que redefine a jornada gamer.
+  Explore, jogue, conecte: o hub que redefine a jornada gamer.
 </p>
 
 <hr/>
